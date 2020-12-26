@@ -1,2 +1,2 @@
 # CodeForces-Codes
-First Try to solve it by yourself, Still not getting refer to this answers.
+First Try to solve it by yourself,If not getting refer to this answers.
